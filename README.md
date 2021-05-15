@@ -18,7 +18,7 @@
   - 목표 : [참고강의](https://www.inflearn.com/course/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EA%B3%B5%EB%A3%A1%EC%B1%85-%EC%A0%84%EA%B3%B5%EA%B0%95%EC%9D%98#) 듣고 공부하기
   - 해야 할 것 : 강의 듣고 정리 또는 공유하고 싶은 것을 Git Repo에 등록한다!
   - 일 차별 목록 : 
-    - 1 일차 :
+    - 5/15 :
       - 김용수 : https://github.com/wolframhwang/For-Exodus/blob/main/OS/1%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md
 
 ### Network
