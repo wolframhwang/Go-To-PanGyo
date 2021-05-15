@@ -4,15 +4,15 @@
 
 ## 📓 Index Page
 1. Common <br>
-  1 - 1. Operating System
-  1 - 2. Network
-  1 - 3. Data Base
+  1 - 1. Operating System <br> 
+  1 - 2. Network <br>
+  1 - 3. Data Base <br>
   
 2. Specific <br>
-  2 - 1. Java
-  2 - 2. Javascript
-  2 - 3. Python
-  2 - 4. Swift
+  2 - 1. Java <br>
+  2 - 2. Javascript <br>
+  2 - 3. Python <br>
+  2 - 4. Swift <br>
   
 ### Operating System
   - 목표 : [참고강의](https://www.inflearn.com/course/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EA%B3%B5%EB%A3%A1%EC%B1%85-%EC%A0%84%EA%B3%B5%EA%B0%95%EC%9D%98#) 듣고 공부하기
