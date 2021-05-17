@@ -20,6 +20,7 @@
   - 일 차별 목록 : 
     - 5/15 :
       - 김용수 : https://github.com/wolframhwang/For-Exodus/blob/main/OS/1%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md
+      - 박민지 : https://github.com/wolframhwang/For-Exodus/blob/main/OS/1_%EB%B0%95%EB%AF%BC%EC%A7%80.md
     - 5/17 :
       - 김용수 : https://github.com/wolframhwang/For-Exodus/blob/main/OS/2%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md
 
