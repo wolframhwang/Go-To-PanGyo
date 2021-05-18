@@ -29,6 +29,8 @@
   - 일 차별 목록 : 
       - 5/17 :
         - 박민지 : https://github.com/wolframhwang/For-Exodus/blob/main/Network/N1_%EB%B0%95%EB%AF%BC%EC%A7%80.md
+      - 5/18 :
+        - 박민지 : https://github.com/wolframhwang/For-Exodus/blob/main/Network/N2_%EB%B0%95%EB%AF%BC%EC%A7%80.md
 
 
 ### Data Base
