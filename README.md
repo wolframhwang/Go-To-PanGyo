@@ -35,10 +35,18 @@
 ### Network
   - 목표 : 
   - 일 차별 목록 : 
-      - 5/17 :
-        - 박민지 : https://github.com/wolframhwang/For-Exodus/blob/main/Network/N1_%EB%B0%95%EB%AF%BC%EC%A7%80.md
-      - 5/18 :
-        - 박민지 : https://github.com/wolframhwang/For-Exodus/blob/main/Network/N2_%EB%B0%95%EB%AF%BC%EC%A7%80.md
+| date   |   민지  |  지웅 |  주영 |  진우 |  용수 |
+| ------ |  ----- | ---- | ---- | ---- | ---- |
+| 05. 15 |        |      |      |      |      |
+| 05. 16 |        |      |      |      |      |
+| 05. 17 | [첫번째](https://github.com/wolframhwang/For-Exodus/blob/main/Network/N1_%EB%B0%95%EB%AF%BC%EC%A7%80.md)       |      |      |      |      |
+| 05. 18 | [두번째](https://github.com/wolframhwang/For-Exodus/blob/main/Network/N2_%EB%B0%95%EB%AF%BC%EC%A7%80.md)       |      |      |      |      |
+| 05. 19 |        |      |      |      |      |
+| 05. 20 |        |      |      |      |      |
+| 05. 21 |        |      |      |      |      |
+| 05. 22 |        |      |      |      |      |
+| 05. 23 |        |      |      |      |      |
+
 
 
 ### Data Base
