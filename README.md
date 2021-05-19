@@ -39,8 +39,6 @@
 | ------ |  ----- | ---- | ---- | ---- | ---- |
 | 05. 15 |        |      |      |      |      |
 | 05. 16 |        |      |      |      |      |
-| 05. 17 | [첫번째](https://github.com/wolframhwang/For-Exodus/blob/main/Network/N1_%EB%B0%95%EB%AF%BC%EC%A7%80.md)       |      |      |      |      |
-| 05. 18 | [두번째](https://github.com/wolframhwang/For-Exodus/blob/main/Network/N2_%EB%B0%95%EB%AF%BC%EC%A7%80.md)       |      |      |      |      |
 | 05. 19 |        |      |      |      |      |
 | 05. 20 |        |      |      |      |      |
 | 05. 21 |        |      |      |      |      |
