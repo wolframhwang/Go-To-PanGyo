@@ -14,11 +14,11 @@
 
 ### example
     - 한가지 예제를 보자.
-""" 
+```
 #include<stdio.h>
 #include<unistd.h>
 #include<sys/wait.h>
-```
+
 int main() {
         fork(); //1 
         fork(); //2
