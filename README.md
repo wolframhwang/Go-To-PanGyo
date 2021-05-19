@@ -25,7 +25,7 @@
 | 05. 16 |   |  |  | | |
 | 05. 17 |   |  |  | | [두번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/2일차_김용수.md)|
 | 05. 18 |   | [첫번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/Wolfram_Process.md) |  | | |
-| 05. 19 |   | [두번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/Wolfram_fork.md) |  | | |
+| 05. 19 |   | [두번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/Wolfram_fork.md) |  | | [세번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/3%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md)|
 | 05. 20 |   |  |  | | |
 | 05. 21 |   |  |  | | |
 | 05. 22 |   |  |  | | |
