@@ -14,6 +14,8 @@ ex) `OutOfMemoryError`, `ThreadDeath`, `StackOverflowError`,
 
 자세한 내용은 다음 그림을 참조하면 된다. 
 
+![exception](https://user-images.githubusercontent.com/37646197/118981775-b01f6a00-b9b5-11eb-811e-8bfb4ae9d900.PNG)
+
 ![exception](/JAVA/img/exception.png)
 
 표로 정리를 해보면 다음과 같다. 
