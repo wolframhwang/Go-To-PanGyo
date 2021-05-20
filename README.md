@@ -25,8 +25,8 @@
 | 05. 16 |   |  |  | | |
 | 05. 17 |   |  |  | | [두번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/2일차_김용수.md)|
 | 05. 18 |   | [첫번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/Wolfram_Process.md) |  | | |
-| 05. 19 |   | [두번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/Wolfram_fork.md) | [첫번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/os_개념_정리_김주영.md) | | [세번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/3%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md)|
-| 05. 20 |   |  |  | | [네번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/4%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md)|
+| 05. 19 |   | [두번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/Wolfram_fork.md) | [첫번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/주영_1일차.md) | | [세번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/3%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md)|
+| 05. 20 |   |  | [두번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/주영_2일차.md) | | [네번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/4%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md)|
 | 05. 21 |   |  |  | | |
 | 05. 22 |   |  |  | | |
 | 05. 23 |   |  |  | | |
@@ -52,3 +52,19 @@
 
 ### Data Base
 <br>
+
+### Java 
+  - 목표 : 알아서 
+
+| date   |   민지  |  지웅 |  주영 |  진우 |  용수 |
+| ------ |  ----- | ---- | ---- | ---- | ---- |
+| 05. 15 |        |      |      |      |      |
+| 05. 16 |        |      |      |      |      |
+| 05. 17 |      |      |      |      |      |
+| 05. 18 |       |      |      |      |      |
+| 05. 19 |        |      |      |      |      |
+| 05. 20 |        |      | [첫번째](https://github.com/wolframhwang/For-Exodus/blob/main/JAVA/java_주영_첫번째.md) |      |      |
+| 05. 21 |        |      |      |      |      |
+| 05. 22 |        |      |      |      |      |
+| 05. 23 |        |      |      |      |      |
+
