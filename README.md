@@ -82,7 +82,7 @@
 | 05. 20 |        |      | [첫번째](https://github.com/wolframhwang/For-Exodus/blob/main/JAVA/java_주영_첫번째.md) |      |      |
 | 05. 21 |        |      |      |      |      |
 | 05. 22 |        |      |      |      |      |
-| 05. 23 |        |      |      |      |      |
+| 05. 23 |        |      | [두번째](https://github.com/wolframhwang/For-Exodus/blob/main/JAVA/java_주영_두번째.md)     |      |      |
 | 05. 24 |        |      |      |      |      |
 | 05. 25 |        |      |      |      |      |
 | 05. 26 |        |      |      |      |      |
