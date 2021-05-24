@@ -56,7 +56,7 @@
 | 05. 21 |        |      |      |      |      |
 | 05. 22 |        |      |      |      |      |
 | 05. 23 |        |      |  [첫번째](https://github.com/wolframhwang/For-Exodus/blob/main/Network/Network_주영_첫번째.md)    |      |      |
-| 05. 24 |        |      |      |      |      |
+| 05. 24 |   [영번째](https://github.com/wolframhwang/For-Exodus/blob/main/Network/N0_%EB%B0%95%EB%AF%BC%EC%A7%80.md)     |      |      |      |      |
 | 05. 25 |        |      |      |      |      |
 | 05. 26 |        |      |      |      |      |
 | 05. 27 |        |      |      |      |      |
