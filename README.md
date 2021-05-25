@@ -22,23 +22,23 @@
 
 | date   | 민지 | 지웅 | 주영 | 진우 | 용수 |
 | ------ |  ----- | ---- | ---- | ---- | ---- |
-| 05. 15 |  [첫번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/1_%EB%B0%95%EB%AF%BC%EC%A7%80.md) |  |  | | [첫번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/1%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md) |
+| 05. 15 |  ✅ |  |  | | ✅ |
 | 05. 16 |   |  |  | | |
-| 05. 17 |   |  |  | | [두번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/2일차_김용수.md)|
-| 05. 18 |   | [첫번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/Wolfram_Process.md) |  | | |
-| 05. 19 |   | [두번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/Wolfram_fork.md) | [첫번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/주영_1일차.md) | | [세번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/3%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md)|
-| 05. 20 |   |  | [두번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/주영_2일차.md) | | [네번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/4%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md)|
-| 05. 21 |   |  | [세번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/주영_3일차.md) | | |
-| 05. 22 |   |  | [네번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/주영_4일차.md) | | |
-| 05. 23 | [영번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/OS0_%20Summary_%EB%B0%95%EB%AF%BC%EC%A7%80.md) |  | [다섯번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/주영_5일차.md) |  | [다섯번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/5%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md) |
-| 05. 24 |  |  |  |  | [여섯번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/6%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md) |
-| 05. 25 |  |  | [여섯번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/주영_6일차.md) |  |  |
-| 05. 26 |  |  |  |  | [일곱번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/7%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md) |
-| 05. 27 |  |  |  |  |  |
-| 05. 28 |  |  |  |  |  |
-| 05. 29 |  |  |  |  |  |
-| 05. 30 |  |  |  |  |  |
-| 05. 31 |  |  |  |  |  |
+| 05. 17 |   |  |  | | ✅ |
+| 05. 18 |   | ✅ |  | | |
+| 05. 19 |   | ✅ | ✅ | | ✅ |
+| 05. 20 |   |  | ✅ | | ✅ |
+| 05. 21 |   |  | ✅ | | |
+| 05. 22 |   |  | ✅ | | |
+| 05. 23 | ✅ |  | ✅ |  | ✅ |
+| 05. 24 |   | ✅ |  |  | ✅ |
+| 05. 25 |   | ✅ | ✅ |  |  |
+| 05. 26 |   |  |  |  | ✅ |
+| 05. 27 |   |  |  |  |  |
+| 05. 28 |   |  |  |  |  |
+| 05. 29 |   |  |  |  |  |
+| 05. 30 |   |  |  |  |  |
+| 05. 31 |   |  |  |  |  |
 
 
 ### Network
@@ -49,15 +49,15 @@
 | ------ |  ----- | ---- | ---- | ---- | ---- |
 | 05. 15 |        |      |      |      |      |
 | 05. 16 |        |      |      |      |      |
-| 05. 17 | [첫번째](https://github.com/wolframhwang/For-Exodus/blob/main/Network/N1_%EB%B0%95%EB%AF%BC%EC%A7%80.md)       |      |      |      |      |
-| 05. 18 | [두번째](https://github.com/wolframhwang/For-Exodus/blob/main/Network/N2_%EB%B0%95%EB%AF%BC%EC%A7%80.md)       |      |      |      |      |
+| 05. 17 | ✅       |      |      |      |      |
+| 05. 18 | ✅       |      |      |      |      |
 | 05. 19 |        |      |      |      |      |
 | 05. 20 |        |      |      |      |      |
 | 05. 21 |        |      |      |      |      |
 | 05. 22 |        |      |      |      |      |
-| 05. 23 |        |      |  [첫번째](https://github.com/wolframhwang/For-Exodus/blob/main/Network/Network_주영_첫번째.md)    |      |      |
-| 05. 24 |   [영번째](https://github.com/wolframhwang/For-Exodus/blob/main/Network/N0_%EB%B0%95%EB%AF%BC%EC%A7%80.md)     |      |      |      |      |
-| 05. 25 |    [영번째](https://github.com/wolframhwang/For-Exodus/blob/main/Network/N0_%EB%B0%95%EB%AF%BC%EC%A7%80.md)    |      |      |      |      |
+| 05. 23 |        |      |  ✅    |      |      |
+| 05. 24 |   ✅     |      |      |      |      |
+| 05. 25 |    ✅    |      |      |      |      |
 | 05. 26 |        |      |      |      |      |
 | 05. 27 |        |      |      |      |      |
 | 05. 28 |        |      |      |      |      |
@@ -79,10 +79,10 @@
 | 05. 17 |      |      |      |      |      |
 | 05. 18 |       |      |      |      |      |
 | 05. 19 |        |      |      |      |      |
-| 05. 20 |        |      | [첫번째](https://github.com/wolframhwang/For-Exodus/blob/main/JAVA/java_주영_첫번째.md) |      |      |
+| 05. 20 |        |      | ✅ |      |      |
 | 05. 21 |        |      |      |      |      |
 | 05. 22 |        |      |      |      |      |
-| 05. 23 |        |      | [두번째](https://github.com/wolframhwang/For-Exodus/blob/main/JAVA/java_주영_두번째.md)     |      |      |
+| 05. 23 |        |      | ✅     |      |      |
 | 05. 24 |        |      |      |      |      |
 | 05. 25 |        |      |      |      |      |
 | 05. 26 |        |      |      |      |      |
