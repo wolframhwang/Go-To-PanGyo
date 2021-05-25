@@ -33,7 +33,7 @@
 | 05. 23 | [영번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/OS0_%20Summary_%EB%B0%95%EB%AF%BC%EC%A7%80.md) |  | [다섯번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/주영_5일차.md) |  | [다섯번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/5%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md) |
 | 05. 24 |  |  |  |  | [여섯번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/6%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md) |
 | 05. 25 |  |  | [여섯번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/주영_6일차.md) |  |  |
-| 05. 26 |  |  |  |  |  |
+| 05. 26 |  |  |  |  | [일곱번째](https://github.com/wolframhwang/For-Exodus/blob/main/OS/7%EC%9D%BC%EC%B0%A8_%EA%B9%80%EC%9A%A9%EC%88%98.md) |
 | 05. 27 |  |  |  |  |  |
 | 05. 28 |  |  |  |  |  |
 | 05. 29 |  |  |  |  |  |
