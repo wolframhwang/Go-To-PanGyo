@@ -93,7 +93,7 @@
 | 05. 31 |        |      |      |      |      |
 
 
-### Data Structure 
+### Data Structure & Algorithm
   - 목표 : 알아서 
 
 | date   |   민지  |  지웅 |  주영 |  진우 |  용수 |
