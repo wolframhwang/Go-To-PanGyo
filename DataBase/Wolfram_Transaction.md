@@ -5,9 +5,9 @@
 
 상태를 변화시킨다? -> SQL 질의어를 사용하여 DB에 접근하여 데이터를 가져오거나, 변경하는 모든 작업
 
-> SELECT
-INSERT
-DELETE
+> SELECT <br>
+INSERT <br>
+DELETE <br>
 UPDATE
 
 작업 단위 -> 많은 SQL명령 문들을 사람이 정하는 기준에 따라 정하는 것
