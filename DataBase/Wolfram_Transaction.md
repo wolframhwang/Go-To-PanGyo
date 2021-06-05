@@ -44,8 +44,8 @@ Transaction은 여러 특징이있다.
 이해를 위한 두가지 개념 : DBMS의 구조 / Buffer 관리 정책
 
 1. DBMS의 구조
-> 크게 2가지 : Query Processor, Storage System
-입출력 단위 : 고정 길이의 page단위로 disk에 읽거나 쓴다.
+> 크게 2가지 : Query Processor, Storage System <br>
+입출력 단위 : 고정 길이의 page단위로 disk에 읽거나 쓴다. <br>
 저장공간 : 비휘발성 저장공간인 DISK에 저장한다. 일부분만 RAM에 저장
 
 2. Page Buffer Manager or Buffer Manager
