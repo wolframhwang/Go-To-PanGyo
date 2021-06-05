@@ -1,7 +1,5 @@
 # 가자! IT! 할수 있다! 이직!
 
-# 도망Note
-
 ## 📓 Index Page
 1. Common <br>
   1 - 1. Operating System <br> 
