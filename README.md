@@ -1,4 +1,4 @@
-# For-Exodus
+# 가자! IT! 할수 있다! 이직!
 
 # 도망Note
 
